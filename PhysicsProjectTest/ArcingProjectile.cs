@@ -2,20 +2,6 @@
 {
     public class ArcingProjectile
     {
-        public static double MaxHeight(double initialVelocity, double verticalAngle)
-        {
-            double thetaRad = verticalAngle * Math.PI / 180.0;
-            double v0y = initialVelocity * Math.Sin(thetaRad);
-            return (v0y * v0y) / (2 * 9.81);
-        }
-
-        public static double TimeOfFlight(double initialVelocity, double verticalAngle)
-        {
-            double thetaRad = verticalAngle * Math.PI / 180.0;
-            double v0y = initialVelocity * Math.Sin(thetaRad);
-            return (2 * v0y) / 9.81;
-        }
-
 
         public static Vector3 CalculateProjectilePosition(double initialVelocity, double verticalAngle, double horizontalAngle, double time, Vector3 startPosition)
         {
@@ -34,6 +20,26 @@
 
             return new Vector3(x, y, z);
         }
+
+        /*
+public static double MaxHeight(double initialVelocity, double verticalAngle)
+{
+    double thetaRad = verticalAngle * Math.PI / 180.0;
+    double v0y = initialVelocity * Math.Sin(thetaRad);
+    return (v0y * v0y) / (2 * 9.81);
+}
+
+public static double TimeOfFlight(double initialVelocity, double verticalAngle)
+{
+    double thetaRad = verticalAngle * Math.PI / 180.0;
+    double v0y = initialVelocity * Math.Sin(thetaRad);
+    return (2 * v0y) / 9.81;
+}
+
+*/
+
+        // the above is for stuff i was going to add later but given my timeline
+        // i simply dont have enough time to add different arcing projectile calculations right now
     }
 
 }
