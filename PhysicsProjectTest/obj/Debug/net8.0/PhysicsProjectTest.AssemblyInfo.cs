@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhysicsProjectTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5584bb7b965f60c7b4006273552fb57b818935cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e73135045641cee495ff8289ad94934b86cb201")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhysicsProjectTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhysicsProjectTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

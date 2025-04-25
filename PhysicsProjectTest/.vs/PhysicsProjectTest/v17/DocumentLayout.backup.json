@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|c:\\users\\merce\\class2\\physics-project\\physicsprojecttest\\vector3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|solutionrelative:vector3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|c:\\users\\merce\\class2\\physics-project\\physicsprojecttest\\homingmissiletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|solutionrelative:homingmissiletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|c:\\users\\merce\\class2\\physics-project\\physicsprojecttest\\arcingprojectiletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|solutionrelative:arcingprojectiletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|c:\\users\\merce\\class2\\physics-project\\physicsprojecttest\\arcingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|solutionrelative:arcingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|c:\\users\\merce\\class2\\physics-project\\physicsprojecttest\\arcingprojectiletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|solutionrelative:arcingprojectiletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|c:\\users\\merce\\class2\\physics-project\\physicsprojecttest\\homingmissile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|solutionrelative:homingmissile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|c:\\users\\merce\\class2\\physics-project\\physicsprojecttest\\vector3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5374E557-2768-4E2E-A92A-D5B64B6B3A7C}|PhysicsProjectTest.csproj|solutionrelative:vector3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArcingProjectileTest.cs",
+              "DocumentMoniker": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\ArcingProjectileTest.cs",
+              "RelativeDocumentMoniker": "ArcingProjectileTest.cs",
+              "ToolTip": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\ArcingProjectileTest.cs*",
+              "RelativeToolTip": "ArcingProjectileTest.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:08:32.01Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -39,66 +44,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomingMissileTest.cs",
-              "DocumentMoniker": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\HomingMissileTest.cs",
-              "RelativeDocumentMoniker": "HomingMissileTest.cs",
-              "ToolTip": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\HomingMissileTest.cs",
-              "RelativeToolTip": "HomingMissileTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T02:04:03.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ArcingProjectileTest.cs",
-              "DocumentMoniker": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\ArcingProjectileTest.cs",
-              "RelativeDocumentMoniker": "ArcingProjectileTest.cs",
-              "ToolTip": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\ArcingProjectileTest.cs",
-              "RelativeToolTip": "ArcingProjectileTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T02:03:54.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomingMissile.cs",
-              "DocumentMoniker": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\HomingMissile.cs",
-              "RelativeDocumentMoniker": "HomingMissile.cs",
-              "ToolTip": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\HomingMissile.cs",
-              "RelativeToolTip": "HomingMissile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T02:03:41.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Vector3.cs",
-              "DocumentMoniker": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\Vector3.cs",
-              "RelativeDocumentMoniker": "Vector3.cs",
-              "ToolTip": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\Vector3.cs",
-              "RelativeToolTip": "Vector3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T02:03:31.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ArcingProjectile.cs",
               "DocumentMoniker": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\ArcingProjectile.cs",
               "RelativeDocumentMoniker": "ArcingProjectile.cs",
               "ToolTip": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\ArcingProjectile.cs",
               "RelativeToolTip": "ArcingProjectile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:54:15.608Z",
+              "WhenOpened": "2025-04-25T02:30:05.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vector3.cs",
+              "DocumentMoniker": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\Vector3.cs",
+              "RelativeDocumentMoniker": "Vector3.cs",
+              "ToolTip": "C:\\Users\\merce\\class2\\physics-project\\PhysicsProjectTest\\Vector3.cs",
+              "RelativeToolTip": "Vector3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:08:48.961Z",
               "EditorCaption": ""
             }
           ]
