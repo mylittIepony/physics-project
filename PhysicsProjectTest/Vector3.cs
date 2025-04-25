@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PhysicsProjectTest
 {
-    class Vector3
+    public class Vector3
     {
         public double X { get; set; }
         public double Y { get; set; }
